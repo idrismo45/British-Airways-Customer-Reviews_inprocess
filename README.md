@@ -4,4 +4,5 @@
 
 ![Dashboard View on Tableau](BA_dasboard.png)
 
+View on Tableau : https://public.tableau.com/shared/QPB7STJ2N?:display_count=n&:origin=viz_share_link
 
