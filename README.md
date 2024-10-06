@@ -1,2 +1,2 @@
 
-![Dashboard View on Tableau](BA_dashboard.gif)
+![Dashboard View on Tableau](BA_dashboard1.gif)
